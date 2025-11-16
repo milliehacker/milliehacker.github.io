@@ -3,10 +3,11 @@ body {
 }
 
 div {
+  max-width: 620px;
   background-color:#fff;
   text-align: justify;
   text-justify: inter-word;
-  padding:10px;
+  padding:20px;
   margin-right: 600px;
   margin-left: 200px;
 }
