@@ -1,10 +1,11 @@
 body {
-  background-color: #95A879;
+  background-color: #BFC0D5;
+  background-image: url("snowcaps.jpeg");
 }
 
 div {
   max-width: 620px;
-  background-color:#fff;
+  background-color:#BFC0D5;
   text-align: justify;
   text-justify: inter-word;
   padding:20px;
