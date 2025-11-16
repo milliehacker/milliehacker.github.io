@@ -14,3 +14,22 @@ div {
 .center {
   margin: auto;
 }
+
+a:link {
+  color: black;
+}
+
+/* visited link */
+a:visited {
+  color: black;
+}
+
+/* mouse over link */
+a:hover {
+  color: #95A879;
+}
+
+/* selected link */
+a:active {
+  color: black;
+}
