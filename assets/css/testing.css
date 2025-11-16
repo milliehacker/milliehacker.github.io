@@ -1,13 +1,14 @@
 body {
-  background-color: #d6e0c8;
+  background-color: #95A879;
 }
 
 div {
+  background-color:#fff;
   text-align: justify;
   text-justify: inter-word;
-  padding-top: 10px;
-  padding-right: 600px;
-  padding-left: 200px;
+  padding:10px;
+  margin-right: 600px;
+  margin-left: 200px;
 }
 
 .center {
