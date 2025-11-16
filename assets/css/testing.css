@@ -3,10 +3,9 @@ body {
 }
 
 div {
-  margin-top: 5px;
-  margin-bottom: 5px;
-  margin-right: 300px;
-  margin-left: 300px;
+  padding-top: 10px;
+  padding-right: 600px;
+  padding-left: 200px;
 }
 
 .center {
