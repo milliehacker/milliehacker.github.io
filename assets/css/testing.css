@@ -1,5 +1,6 @@
 body {
-  background-image: url("snowcaps.jpeg");
+  background-image: url("images/snowcaps.jpeg");
+  background-size: cover;
 }
 
 div {
