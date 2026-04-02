@@ -16,7 +16,7 @@ div {
 }
 
 .courier {
-  color: #66392B;
+  color: #61443B;
 }
 
 a:link {
@@ -30,7 +30,7 @@ a:visited {
 
 /* mouse over link */
 a:hover {
-  color: #66392B;
+  color: #61443B;
 }
 
 /* selected link */
