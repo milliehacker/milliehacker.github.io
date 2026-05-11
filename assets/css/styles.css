@@ -1,12 +1,13 @@
 body {
-  background-image: url("/images/snowcaps_small.jpeg");
+  /* background-image: url("/images/snowcaps_small.jpeg"); */
+  background-color:#E3B1A1;
   background-size: cover;
   font-family: Arial, sans-serif;
 }
 
 div {
   max-width: 620px;
-  background-color:#E3B1A1;
+  /* background-color:#E3B1A1; */
   text-align: justify;
   text-justify: inter-word;
   padding:20px;
