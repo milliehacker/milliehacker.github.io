@@ -1,6 +1,6 @@
 body {
-  /* background-image: url("/images/snowcaps_small.jpeg"); */
-  background-color:#E3B1A1;
+  background-image: url("/images/forest.jpeg");
+  /* background-color:#E3B1A1; */
   background-size: cover;
   font-family: Arial, sans-serif;
 }
@@ -10,7 +10,7 @@ div {
   /* background-color:#E3B1A1; */
   text-align: justify;
   text-justify: inter-word;
-  padding:20px;
+  padding:40px;
 }
 
 .center {
