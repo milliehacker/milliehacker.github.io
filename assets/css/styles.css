@@ -3,6 +3,7 @@ body {
   /* background-color:#E3B1A1; */
   background-size: cover;
   font-family: Arial, sans-serif;
+  margin: 0px;
 }
 
 div {
@@ -11,6 +12,7 @@ div {
   text-align: justify;
   text-justify: inter-word;
   padding:40px;
+  margin: 0px;
 }
 
 .center {
