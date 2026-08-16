@@ -1,6 +1,6 @@
 body {
   /* background-image: url("/images/AsawaRug2.png"); */
-  background-color:#BCD1D8;
+  background-color:#D3DCD4;
   background-size: cover;
   font-family: Arial, sans-serif;
   margin: 0px;
@@ -20,7 +20,7 @@ div {
 }
 
 .bluetext {
-  color: #466E7C;
+  color: #4B664E;
 }
 
 a:link {
