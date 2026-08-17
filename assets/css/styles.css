@@ -16,7 +16,8 @@ div {
 }
 
 .center {
-  margin: 25px;
+  margin: auto;
+  padding: 5px;
 }
 
 .bluetext {
