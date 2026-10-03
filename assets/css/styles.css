@@ -54,9 +54,9 @@ a:active {
   margin-right: 25px;
 }
 
-.colright {
-  float: right;
-  width: 25%;
+.bigcol {
+  float: left;
+  width: 60%;
   margin-right: 25px;
 }
 
