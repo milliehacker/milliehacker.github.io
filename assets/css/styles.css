@@ -56,8 +56,7 @@ a:active {
 
 .bigcol {
   float: left;
-  width: 60%;
-  margin-right: 25px;
+  width: 75%;
 }
 
 /* Clearfix (clear floats) */
