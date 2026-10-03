@@ -54,6 +54,12 @@ a:active {
   margin-right: 25px;
 }
 
+.colright {
+  float: right;
+  width: 25%;
+  margin-right: 25px;
+}
+
 /* Clearfix (clear floats) */
 .row::after {
   content: "";
